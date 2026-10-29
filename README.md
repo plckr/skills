@@ -2,7 +2,9 @@
 
 A personal-first collection of reusable agent skills, shared publicly. Original skills and modified upstream skills live side by side in `skills/`.
 
-This repository is being set up; no skills are published yet. The installation commands below become useful once skills have been added and pushed.
+## Available skills
+
+- [reflect-and-prevent](skills/reflect-and-prevent/SKILL.md) — Review a user-supplied correction and propose a reusable prevention measure. Persistent changes require explicit approval after a preview. Includes Pi's `/skill:reflect-and-prevent` invocation syntax; other agents may use different invocation conventions.
 
 ## Install
 
